@@ -1,0 +1,19 @@
+.about p {
+  max-width: 1048px;
+  margin-top: 30px;
+  font-size: 45px;
+  line-height: 61px;
+  letter-spacing: -0.03em;
+  color: #121212;
+}
+
+.about__btn {
+  margin-top: 30px;
+  padding: 20px 40px;
+  font-size: 20px;
+  line-height: 27px;
+}
+
+.about__btn:hover {
+  opacity: 0.9;
+}
